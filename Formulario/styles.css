@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#titulo {
+  font-family: verdana;
+  color: #284b63;
+  margin-left: 7%;
+}
+
+#subtitulo {
+  font-family: sans-serif;
+  margin-left: 12%;
+}
